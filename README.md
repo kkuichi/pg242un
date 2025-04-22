@@ -1,6 +1,6 @@
 **Multimodálny prístup k detekcii toxického správania pomocou vysvetliteľných modelov**
  
-─────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────────────
 
 
  
@@ -12,7 +12,7 @@ Konzultant práce: Ing. Miroslava Matejová
  
 Akademický rok: 2024/2025
  
-─────────────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────────────
 
 
 Tento repozitár obsahuje riešenie diplomovej práce na tému multimodálny prístup k detekcii toxického správania pomocou vysvetliteľných modelov.
