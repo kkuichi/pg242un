@@ -1,6 +1,6 @@
 **Multimodálny prístup k detekcii toxického správania pomocou vysvetliteľných modelov**
  
-<hr style="border: none; border-top: 1px solid #ccc;">
+<hr style="border: none; border-top: 0.5px solid #ccc;">
  
 Študent: Bc.Laura Freiová
  
