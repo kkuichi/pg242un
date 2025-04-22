@@ -1,5 +1,10 @@
 **Multimodálny prístup k detekcii toxického správania pomocou vysvetliteľných modelov**
- ─────────────────────────────────────────────────────────────────────────────────────────
+<div style="border: 1px solid black; border-radius: 5px; padding: 10px;">
+
+### 🛰️ Dataset
+
+Dátovú množinu tvoria snímky získané zo šiestich slovenských AMOS staníc...
+</div>
  
 Študent: Bc.Laura Freiová
  
